@@ -11,7 +11,7 @@
   "license": "ISC",
   "devDependencies": {
     "babel-loader": "^8.2.2",
-    "webpack": "^5.11.1",
+    "webpack": "^5.112.2",
     "webpack-cli": "^4.3.1"
   },
   "dependencies": {
